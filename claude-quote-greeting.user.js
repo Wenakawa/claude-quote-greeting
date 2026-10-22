@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Claude Quote Greeting
 // @namespace    niw
-// @version      1.2.0
+// @version      1.2.1
 // @description  แทนคำทักทายหน้าแรก claude.ai ด้วยคำคม (อัปเดตชุดใหม่ทุกสัปดาห์)
 // @match        https://claude.ai/*
 // @run-at       document-idle
@@ -83,8 +83,11 @@
     if (!/^\/(new)?$/.test(location.pathname)) return;
     for (const el of document.querySelectorAll('h1, h2, span, div')) {
       if (el.hasAttribute(MARK) || el.children.length) continue;
+      // ข้าม sidebar / เมนู (เช่น ชื่อบัญชีมุมซ้ายล่าง)
+      if (el.closest('nav, aside, header, footer, [role="navigation"], [role="menu"], button')) continue;
       const t = el.textContent.trim();
-      if (t.length < 60 && /นิว$/.test(t)) el.setAttribute(MARK, text);
+      // ต้องเป็นประโยคทักทาย: มีคำนำหน้า + เว้นวรรค + "นิว" (ไม่ใช่คำว่า "นิว" เดี่ยวๆ)
+      if (t.length < 60 && /\S\s+นิว$/.test(t)) el.setAttribute(MARK, text);
     }
   }
 
