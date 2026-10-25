@@ -44,3 +44,45 @@
 - Ichigo ichie. — Japanese tea ceremony
 - Fall seven times, stand up eight. — Japanese proverb
 - The best time to plant a tree was 20 years ago. The second best time is now. — Chinese proverb
+
+## 2026-10-25 (v1.3.0)
+- As long as you live, keep learning how to live. — Seneca
+- He who is everywhere is nowhere. — Seneca
+- Life is long if you know how to use it. — Seneca
+- The best revenge is not to be like your enemy. — Marcus Aurelius
+- Loss is nothing else but change, and change is Nature's delight. — Marcus Aurelius
+- If it is not right, do not do it; if it is not true, do not say it. — Marcus Aurelius
+- Men are disturbed not by things, but by the opinions about things. — Epictetus
+- Only the educated are free. — Epictetus
+- Philosophy begins in wonder. — Plato
+- One swallow does not make a summer, nor one fine day. — Aristotle
+- Character is destiny. — Heraclitus
+- Do not spoil what you have by desiring what you have not. — Epicurus
+- Death is nothing to us. — Epicurus
+- Those who know do not speak; those who speak do not know. — Lao Tzu
+- He who knows he has enough is rich. — Lao Tzu
+- The softest thing in the world overcomes the hardest. — Lao Tzu
+- The fish trap exists because of the fish; once you've gotten the fish, you can forget the trap. — Zhuangzi
+- Learning without thought is labor lost; thought without learning is perilous. — Confucius
+- When you see a worthy person, think of becoming equal to them. — Confucius
+- Do not impose on others what you do not wish for yourself. — Confucius
+- The great man is he who does not lose his child's heart. — Mencius
+- If you know the enemy and know yourself, you need not fear the result of a hundred battles. — Sun Tzu
+- Mind is the forerunner of all things. — The Buddha
+- Better than a thousand hollow words is one word that brings peace. — The Buddha
+- Health is the greatest gift, contentment the greatest wealth. — The Buddha
+- Even monkeys fall from trees. — Japanese proverb
+- Even dust, when piled up, becomes a mountain. — Japanese proverb
+- Do nothing which is of no use. — Miyamoto Musashi
+- Anxiety is the dizziness of freedom. — Kierkegaard
+- Without music, life would be a mistake. — Nietzsche
+- In the depths of winter, I finally learned that within me there lay an invincible summer. — Camus
+- The heart has its reasons which reason knows nothing of. — Pascal
+- What do I know? — Montaigne
+- All things excellent are as difficult as they are rare. — Spinoza
+- The best is the enemy of the good. — Voltaire
+- Our life is frittered away by detail. Simplify, simplify. — Thoreau
+- To be great is to be misunderstood. — Emerson
+- Life is short, art is long. — Hippocrates
+- Carpe diem. — Horace
+- Per aspera ad astra. — Latin proverb
