@@ -86,3 +86,45 @@
 - Life is short, art is long. — Hippocrates
 - Carpe diem. — Horace
 - Per aspera ad astra. — Latin proverb
+
+## 2026-11-01 (v1.4.0)
+- Associate with those who will make a better man of you. — Seneca
+- No man was ever wise by chance. — Seneca
+- If one does not know to which port one is sailing, no wind is favorable. — Seneca
+- The soul becomes dyed with the color of its thoughts. — Marcus Aurelius
+- Confine yourself to the present. — Marcus Aurelius
+- How much more grievous are the consequences of anger than the causes of it. — Marcus Aurelius
+- If you want to improve, be content to be thought foolish and stupid. — Epictetus
+- The beginning is the most important part of the work. — Plato
+- The roots of education are bitter, but the fruit is sweet. — Aristotle
+- Man is by nature a political animal. — Aristotle
+- The way up and the way down are one and the same. — Heraclitus
+- Nature loves to hide. — Heraclitus
+- Of all the things wisdom provides for a happy life, by far the greatest is friendship. — Epicurus
+- I am a citizen of the world. — Diogenes of Sinope
+- Governing a large country is like cooking a small fish. — Lao Tzu
+- The perfect man uses his mind like a mirror. — Zhuangzi
+- To learn and at due times to repeat what one has learnt, is that not after all a pleasure? — Confucius
+- To see what is right and not to do it is want of courage. — Confucius
+- Learning continues until death and only then does it cease. — Xunzi
+- Supreme excellence consists in breaking the enemy's resistance without fighting. — Sun Tzu
+- As a solid rock is not shaken by the wind, so the wise are not moved by praise or blame. — The Buddha
+- Not to do any evil, to cultivate good, to purify one's mind: this is the teaching of the Buddhas. — The Buddha
+- If something can be remedied, why be unhappy? If it cannot, what use is being unhappy? — Shantideva
+- The nail that sticks out gets hammered down. — Japanese proverb
+- Think lightly of yourself and deeply of the world. — Miyamoto Musashi
+- Do not seek to follow in the footsteps of the wise; seek what they sought. — Bashō
+- Each man bears the entire form of the human condition. — Montaigne
+- All of humanity's problems stem from man's inability to sit quietly in a room alone. — Pascal
+- We must cultivate our garden. — Voltaire
+- Become who you are. — Nietzsche
+- There are no facts, only interpretations. — Nietzsche
+- Talent hits a target no one else can hit; genius hits a target no one else can see. — Schopenhauer
+- Well done is better than well said. — Benjamin Franklin
+- The struggle itself toward the heights is enough to fill a man's heart. — Camus
+- The starry heavens above me and the moral law within me. — Kant
+- Rather than love, than money, than fame, give me truth. — Thoreau
+- Whereof one cannot speak, thereof one must be silent. — Wittgenstein
+- You have a right to your actions, but never to the fruits of action. — Bhagavad Gita
+- Man is born free, and everywhere he is in chains. — Rousseau
+- Knowledge is power. — Francis Bacon
