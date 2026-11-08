@@ -128,3 +128,45 @@
 - You have a right to your actions, but never to the fruits of action. — Bhagavad Gita
 - Man is born free, and everywhere he is in chains. — Rousseau
 - Knowledge is power. — Francis Bacon
+
+## 2026-11-08 (v1.5.0)
+- Wherever there is a human being, there is an opportunity for a kindness. — Seneca
+- Men learn while they teach. — Seneca
+- Accept the things to which fate binds you, and love the people with whom fate brings you together. — Marcus Aurelius
+- What is not good for the swarm is not good for the bee. — Marcus Aurelius
+- Do not seek for things to happen as you wish, but wish them to happen as they do. — Epictetus
+- We have two ears and one mouth, so we should listen more than we speak. — Zeno of Citium
+- Well-being is attained by little and little, and nevertheless is no little thing itself. — Zeno of Citium
+- It is better to suffer injustice than to commit it. — Socrates
+- Friendship is a single soul dwelling in two bodies. — Aristotle
+- Nature does nothing in vain. — Aristotle
+- Much learning does not teach understanding. — Heraclitus
+- The sun is new each day. — Heraclitus
+- Nothing is enough for the man to whom enough is too little. — Epicurus
+- Stand a little out of my sun. — Diogenes of Sinope
+- Happiness resides not in possessions, and not in gold; happiness dwells in the soul. — Democritus
+- Man is the measure of all things. — Protagoras
+- If you have a garden in your library, nothing will be lacking. — Cicero
+- The life of the dead is placed in the memory of the living. — Cicero
+- The highest good is like water. — Lao Tzu
+- True words are not beautiful; beautiful words are not true. — Lao Tzu
+- Everyone knows the usefulness of the useful, but no one knows the usefulness of the useless. — Zhuangzi
+- To have faults and not to reform them — this, indeed, is a fault. — Confucius
+- Is virtue a thing remote? I wish to be virtuous, and lo! virtue is at hand. — Confucius
+- I am human, and nothing human is alien to me. — Terence
+- Though one may conquer a thousand times a thousand men in battle, the noblest victor conquers himself. — The Buddha
+- Let none find fault with others; let each look to his own acts, done and undone. — The Buddha
+- To study the Buddha way is to study the self. — Dōgen
+- Even a stone, if sat upon for three years, grows warm. — Japanese proverb
+- The frog in the well knows nothing of the great ocean. — Japanese proverb
+- From one thing, know ten thousand things. — Miyamoto Musashi
+- He who fights with monsters should see to it that he himself does not become a monster. — Nietzsche
+- Every man takes the limits of his own field of vision for the limits of the world. — Schopenhauer
+- Man is but a reed, the most feeble thing in nature; but he is a thinking reed. — Pascal
+- The greatest thing in the world is to know how to belong to oneself. — Montaigne
+- Peace is not an absence of war; it is a virtue. — Spinoza
+- Out of the crooked timber of humanity, no straight thing was ever made. — Kant
+- Reason is, and ought only to be, the slave of the passions. — David Hume
+- Most men lead lives of quiet desperation. — Thoreau
+- The only way to have a friend is to be one. — Emerson
+- Man is the only creature who refuses to be what he is. — Camus
