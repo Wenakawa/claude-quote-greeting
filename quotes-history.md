@@ -170,3 +170,45 @@
 - Most men lead lives of quiet desperation. — Thoreau
 - The only way to have a friend is to be one. — Emerson
 - Man is the only creature who refuses to be what he is. — Camus
+
+## 2026-11-15 (v1.6.0)
+- It is not the man who has too little, but the man who craves more, that is poor. — Seneca
+- The impediment to action advances action. What stands in the way becomes the way. — Marcus Aurelius
+- Look within. Within is the fountain of good. — Marcus Aurelius
+- Freedom is not procured by a full enjoyment of what is desired, but by controlling the desire. — Epictetus
+- Practice yourself, for heaven's sake, in little things; and thence proceed to greater. — Epictetus
+- Wishing to be friends is quick work, but friendship is a slow-ripening fruit. — Aristotle
+- All men by nature desire to know. — Aristotle
+- Eyes are more exact witnesses than ears. — Heraclitus
+- It is impossible to live a pleasant life without living wisely and well and justly. — Epicurus
+- He who conquers others is strong; he who conquers himself is mighty. — Lao Tzu
+- Difficult things in the world must be done while they are easy. — Lao Tzu
+- Great knowledge is broad and unhurried; small knowledge is cramped and busy. — Zhuangzi
+- The gentleman is at ease without being arrogant; the small man is arrogant without being at ease. — Confucius
+- When three walk together, there must be one who can be my teacher. — Confucius
+- The way of learning is none other than finding the lost mind. — Mencius
+- Blue comes from indigo, yet is bluer than indigo. — Xunzi
+- All warfare is based on deception. — Sun Tzu
+- Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves. — The Buddha
+- Drop by drop is the water pot filled. — The Buddha
+- If you chase two rabbits, you will not catch either one. — Japanese proverb
+- Do not regret what you have done. — Miyamoto Musashi
+- Every day is a journey, and the journey itself is home. — Bashō
+- In the beginner's mind there are many possibilities, but in the expert's there are few. — Shunryu Suzuki
+- One must still have chaos in oneself to be able to give birth to a dancing star. — Nietzsche
+- Purity of heart is to will one thing. — Kierkegaard
+- Hell is other people. — Sartre
+- Real generosity toward the future lies in giving all to the present. — Camus
+- One is not born, but rather becomes, a woman. — Simone de Beauvoir
+- I have made this longer than usual because I have not had time to make it shorter. — Pascal
+- To philosophize is to learn to die. — Montaigne
+- I have striven not to laugh at human actions, not to weep at them, nor to hate them, but to understand them. — Spinoza
+- If God did not exist, it would be necessary to invent him. — Voltaire
+- It is not enough to have a good mind; the main thing is to use it well. — Descartes
+- Dripping water hollows out stone. — Ovid
+- Anger is a short madness. — Horace
+- The owl of Minerva spreads its wings only with the falling of the dusk. — Hegel
+- Man can do what he wills, but he cannot will what he wills. — Schopenhauer
+- Heaven is under our feet as well as over our heads. — Thoreau
+- Nothing great was ever achieved without enthusiasm. — Emerson
+- To be ignorant of what occurred before you were born is to remain always a child. — Cicero
