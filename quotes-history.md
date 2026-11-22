@@ -212,3 +212,45 @@
 - Heaven is under our feet as well as over our heads. — Thoreau
 - Nothing great was ever achieved without enthusiasm. — Emerson
 - To be ignorant of what occurred before you were born is to remain always a child. — Cicero
+
+## 2026-11-22 (v1.7.0)
+- Not how long, but how well you have lived is the main thing. — Seneca
+- It is part of the cure to wish to be cured. — Seneca
+- Never esteem anything as of advantage to you that will make you break your word or lose your self-respect. — Marcus Aurelius
+- How ridiculous and how strange to be surprised at anything which happens in life! — Marcus Aurelius
+- It is difficulties that show what men are. — Epictetus
+- No great thing is created suddenly. — Epictetus
+- No evil can happen to a good man, either in life or after death. — Socrates
+- Hope is a waking dream. — Aristotle
+- Dogs bark at every one they do not know. — Heraclitus
+- Nothing in excess. — Delphic maxim
+- Call no man happy until he is dead. — Solon
+- Know thy opportunity. — Pittacus of Mytilene
+- Let no one be slow to seek wisdom when he is young, nor weary in the search when he has grown old. — Epicurus
+- Gratitude is not only the greatest of virtues, but the parent of all the others. — Cicero
+- While there is life, there is hope. — Cicero
+- We are dust and shadow. — Horace
+- Fortune favors the bold. — Virgil
+- Anyone can hold the helm when the sea is calm. — Publilius Syrus
+- A sound mind in a sound body. — Juvenal
+- Nothing can be created out of nothing. — Lucretius
+- The only certainty is that nothing is certain. — Pliny the Elder
+- A good traveler leaves no tracks. — Lao Tzu
+- Thirty spokes unite in one hub; it is on the empty space that the use of the wheel depends. — Lao Tzu
+- The gentleman understands what is right; the small man understands what is profitable. — Confucius
+- Is it not delightful to have friends coming from distant quarters? — Confucius
+- All things are already complete in oneself. — Mencius
+- All conditioned things are impermanent; strive on with diligence. — The Buddha
+- Victory breeds hatred, for the defeated live in pain. — The Buddha
+- Perceive that which cannot be seen with the eye. — Miyamoto Musashi
+- After the rain, the ground hardens. — Japanese proverb
+- Ten men, ten colors. — Japanese proverb
+- Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water. — Zen saying
+- Yoga is skill in action. — Bhagavad Gita
+- All truly great thoughts are conceived while walking. — Nietzsche
+- People demand freedom of speech as a compensation for the freedom of thought which they seldom use. — Kierkegaard
+- Little things console us because little things afflict us. — Pascal
+- The most certain sign of wisdom is cheerfulness. — Montaigne
+- Common sense is not so common. — Voltaire
+- Existence precedes essence. — Sartre
+- Not until we are lost do we begin to understand ourselves. — Thoreau
